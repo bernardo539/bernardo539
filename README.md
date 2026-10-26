@@ -1,16 +1,13 @@
-## Hi there 👋
+# Bernardo Reyes
+Senior Product Designer · Design Systems · Design to Code
 
-<!--
-**bernardo539/bernardo539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design in code. I build design systems and the AI workflows around them,
+so designers ship production ready UI instead of handing off mockups.
 
-Here are some ideas to get you started:
+**What I work with:** Claude Code · Vue · Tailwind · Storybook · Figma Variables · design tokens
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**How I run systems:** tokens in code are the source of truth, agents build on top,
+sprint audits keep quality, and a component joins the system only when two features reuse it.
+
+Most of my product work lives in private repos.
+Portfolio and case studies: [bernardoreyesdesign.com](https://bernardoreyesdesign.com)
